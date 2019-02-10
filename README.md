@@ -15,3 +15,8 @@ simplest wpf calculator ever - if you are here for an expression parser algorith
   - [Looking for pics?](prev/)
 
 ----
+
+</br>
+</br>
+
+`June 2018 - Visual Studio Community 2017 - .net version at that time`
