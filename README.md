@@ -1,4 +1,4 @@
-# web-calculator
+# wpf-calculator
 
 It's a simple calculator made in `C#` with `Windows Presentation Foundation`. It doesn't use an expression parser to compute calculations, but it uses [MSScriptControl.ScriptControl](https://csharp.hotexamples.com/examples/-/MSScriptControl.ScriptControl/-/php-msscriptcontrol.scriptcontrol-class-examples.html) to evaluate calculations, saved as strings.
 
